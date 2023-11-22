@@ -1,5 +1,11 @@
 {
-  "settingsInheritedFrom": "jgeraigery/whitesource-config@main"
+  "settingsInheritedFrom": "jgeraigery/whitesource-config@main",
+"scanSettings": {
+    "enableReachability": true
+  },
+  "checkRunSettings": {
+    "strictMode": "warning"
+  }
 }
 
 
